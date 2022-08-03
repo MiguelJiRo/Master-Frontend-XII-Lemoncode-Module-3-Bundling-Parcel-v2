@@ -10,12 +10,16 @@
 
 <br>
 
-<img align="center" src="https://media3.giphy.com/media/x49DCuOOBiurrmlEov/giphy_s.gif" width="128px">
+<img align="center" src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="128px">
 
 <br>
 
+### Opcional
+<ol>
+    <li>Montar lo mismo con parcel (v2) ✅ </li>
+</ol>
 
-Parte opcional
+<br>
 
 <img align="center" src="./src/assets/parcel.png" width="512px">
 
