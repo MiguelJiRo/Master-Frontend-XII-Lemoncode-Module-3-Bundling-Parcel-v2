@@ -1,0 +1,33 @@
+* {
+  background-color: #d54d7b;
+}
+
+.main-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.main-logo {
+  width: 20vw;
+}
+
+.main-title {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 5px 5px #58aee1;
+  font-family: Great Vibes, cursive;
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+.main-subtitle {
+  color: #c5c2c2;
+  text-align: center;
+  text-shadow: 0 2px 2px #fff;
+  font-family: Great Vibes, cursive;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=index.4a508c1d.css.map */
